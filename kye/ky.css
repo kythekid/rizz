@@ -1,0 +1,43 @@
+/* Basic Styling - Customize as needed */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.body {
+    margin: 20px;
+}
+
+.head, .kye, .cash, .human, .skill {
+    margin: 20px;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.head, .kye, .cash, .human {
+    margin-bottom: 30px;
+}
+
+h4 {
+    margin-top: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}

@@ -1,0 +1,62 @@
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Noto+Sans+Pahawh+Hmong&family=Nova+Square&family=Share+Tech&family=Share+Tech+Mono&family=Shizuru&display=swap');
+
+/* General Styles */
+body {
+    background-color: #333;
+    margin: 20px;
+    font-family: "Noto Sans Pahawh Hmong", sans-serif;
+    color: white;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+    font-family: 'Nova Square', sans-serif;
+}
+
+.one {
+    padding: 5px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.ky {
+    padding: 10px 0 5px 30px;
+    font-size: 24px;
+    font-family: 'Share Tech', sans-serif;
+}
+
+.heading1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Shizuru', sans-serif;
+    padding: 20px 0;
+}
+
+.heading {
+    font-weight: bold;
+    font-family: 'Nova Square', sans-serif;
+}
+
+/* Main Section Styles */
+main {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Libre Franklin', sans-serif;
+    border: 3px solid #fff;
+    width: 320px;
+    height: 150px;
+}
+
+/* Footer Styles */
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Share Tech', sans-serif;
+}
